@@ -21,7 +21,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url('/img/cabecalho.png');
+    background-image: url('../img/cabecalho.png');
     width: 100%;
     height: 400px;
 }
